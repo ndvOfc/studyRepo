@@ -1,0 +1,31 @@
+.head-calculator{
+    height: 340px;
+    width: 260px;
+    background-color: grey;
+    border: rgb(112, 112, 112) solid 10px;
+}
+
+/* .input-monitor{
+    height: 45px;
+    width: 250px;
+} */
+
+.input-field{
+    height: 35px;
+    width: 200px;
+}   
+
+button{
+    margin: 10px;
+    width: 35px;
+    height: 35px;
+}
+.numbers-buttons {
+    display: block;
+    margin: 10px;
+
+}
+
+.operations-buttons {
+    display: block;
+}
