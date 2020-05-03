@@ -53,7 +53,10 @@
 // console.log(--incr,++dicr);
 
 let x = 5;
-console.log([ ] + false - null + true);
+console.log(2 && 1 && 0 && undefined);
+
+let y = 1;
+
 
 
 
