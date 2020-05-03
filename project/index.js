@@ -45,12 +45,20 @@
 // let answer = prompt('Сколько Вам лет');
 // console.log(typeof(answer));
 
-let incr = 10,
-    dicr = 10;
+// let incr = 10,
+//     dicr = 10;
 
 
 
-console.log(--incr,++dicr);
+// console.log(--incr,++dicr);
+
+let x = 5;
+console.log([ ] + false - null + true);
+
+
+
+
+
 
 
 
